@@ -28,6 +28,8 @@ Users can share the generated quote directly on social media platforms like Face
 Users can navigate to a section where they can discover additional short quotes related 
 to various themes and occasions. 
 
+https://github.com/foramgondaliya/WiseWords/assets/149999919/05f91bfc-1e49-400b-9f17-0075e062fb18
+
 ![Screenshot_20240515_111245](https://github.com/foramgondaliya/WiseWords/assets/149999919/9e6d5186-1b97-4030-89c1-0dd6a699c1e7)
 ![Screenshot_20240515_111216](https://github.com/foramgondaliya/WiseWords/assets/149999919/6700537e-e293-4fc4-99ca-2ccc5abd1e74)
 ![Screenshot_20240515_111202](https://github.com/foramgondaliya/WiseWords/assets/149999919/e9d1e792-c4d4-4d06-bba1-3938ad880068)
