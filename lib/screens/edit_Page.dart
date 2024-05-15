@@ -23,7 +23,7 @@ class _EditPageState extends State<EditPage> {
 
   List<String> fontFamilies = GoogleFonts.asMap().keys.toList();
 
-  double textSize = 18;
+  double textSize = 15;
   FontWeight fontWeight = FontWeight.w500;
   double font = 5;
   late String selFont;
@@ -142,7 +142,7 @@ class _EditPageState extends State<EditPage> {
                               Stack(
                                 children: [
                                   Container(
-                                    height: 396,
+                                    height: 390,
                                     width: 400,
                                     decoration: BoxDecoration(
                                       image: (selImage != null)
@@ -155,23 +155,23 @@ class _EditPageState extends State<EditPage> {
                                     ),
                                   ),
                                   Container(
-                                    height: 396,
+                                    height: 390,
                                     width: 400,
                                     alignment: Alignment(dx, dy),
                                     decoration: BoxDecoration(
                                       color: Colors.black87.withOpacity(0.5),
                                       borderRadius: BorderRadius.circular(30),
                                     ),
-                                    child: const CircleAvatar(
-                                      radius: 20,
-                                      backgroundColor: Colors.transparent,
-                                      child: FlutterLogo(),
+                                    child: Image.asset(
+                                      "assets/images/lamp.png",
+                                      height: 50,
+                                      width: 50,
                                     ),
                                   ),
                                 ],
                               ),
                               Container(
-                                height: 396,
+                                height: 390,
                                 width: 400,
                                 decoration: BoxDecoration(
                                   borderRadius: BorderRadius.circular(30),
@@ -269,7 +269,7 @@ class _EditPageState extends State<EditPage> {
                     Slider(
                       value: textSize,
                       min: 15,
-                      max: 22,
+                      max: 20,
                       onChanged: (val) {
                         setState(() {
                           textSize = val;

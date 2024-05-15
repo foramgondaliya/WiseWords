@@ -315,7 +315,7 @@ class QuoteData {
           "categoryQuotes": [
             {
               "quote":
-                  "To love oneself is the beginning of a lifelong romance.",
+                  "Every day may not be good, but there is something good in every day.",
               "author": "- Oscar Wilde",
               "like": false,
               "edit": false,
@@ -328,12 +328,12 @@ class QuoteData {
               "author": "- Buddha",
               "like": false,
               "edit": false,
-              "image":
-                  "https://i.pinimg.com/564x/2c/e9/1e/2ce91e53afbc7e0bc12f4877b61d17f0.jpg",
+              "quote":
+                  "The only limit to our realization of tomorrow will be our doubts of today.",
             },
             {
               "quote":
-                  "Self-care is never a selfish act—it is simply good stewardship of the only gift I have, the gift I was put on earth to offer to others.",
+                  "Every day may not be good, but there is something good in every day.",
               "author": "- Parker Palmer",
               "like": false,
               "edit": false,
@@ -341,7 +341,8 @@ class QuoteData {
                   "https://i.pinimg.com/564x/2c/e9/1e/2ce91e53afbc7e0bc12f4877b61d17f0.jpg",
             },
             {
-              "quote": "You are enough just as you are.",
+              "quote":
+                  "The road to success and the road to failure are almost exactly the same.",
               "author": "- Meghan Markle",
               "like": false,
               "edit": false,
@@ -428,23 +429,27 @@ List<Map<String, dynamic>> allImageData = [
   {
     "description": "Lady with a red umbrella",
     "image-url":
-        "https://i.pinimg.com/736x/68/13/19/68131945f8e3c2d8c8723e06df229603.jpg",
+        "https://i.pinimg.com/564x/0b/da/4d/0bda4db60fbc557d140c14f5d3f9e0e2.jpg",
   },
   {
     "description": "Flowers and some fruits",
-    "image-url": "https://i.imgur.com/KIPtISY.jpg"
+    "image-url":
+        "https://i.pinimg.com/564x/22/47/c0/2247c00e5ab84adff9dd8d21101675c6.jpg"
   },
   {
     "description": "Beautiful scenery",
-    "image-url": "https://i.imgur.com/2jMCqQ2.jpg"
+    "image-url":
+        "https://i.pinimg.com/564x/b2/e2/b0/b2e2b0af47eb23ec4584d6bddca9bf0e.jpg"
   },
   {
     "description": "Some kind of bird",
-    "image-url": "https://i.imgur.com/QFDRuAh.jpg"
+    "image-url":
+        "https://i.pinimg.com/564x/73/fb/b9/73fbb9ee6eaa8b0a8acbabb93e10afaa.jpg"
   },
   {
     "description": "The attack of dragons",
-    "image-url": "https://i.imgur.com/8yIIokW.jpg"
+    "image-url":
+        "https://i.pinimg.com/564x/f5/51/44/f5514424865bd5f84ebad57ded7b9984.jpg"
   }
 ];
 
@@ -503,6 +508,20 @@ class MoreData {
           "name": "uvw",
           'image':
               "https://i.pinimg.com/564x/36/d8/1d/36d81d579af3e412f3398d572d4cad42.jpg"
+        },
+      ]
+    },
+    {
+      "name": [
+        {
+          "name": "uvw",
+          'image':
+              "https://i.pinimg.com/564x/2a/ab/a6/2aaba601660a31bdafdf7fca41eba815.jpg"
+        },
+        {
+          "name": "uvw",
+          'image':
+              "https://i.pinimg.com/564x/ba/90/e8/ba90e8c8b4da18b59c10af6a324c2863.jpg"
         },
       ]
     },
