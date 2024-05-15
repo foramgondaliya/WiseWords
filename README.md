@@ -36,4 +36,5 @@ to various themes and occasions.
 ![Screenshot_20240515_111337](https://github.com/foramgondaliya/WiseWords/assets/149999919/ca21d3d0-b439-43d5-8067-e8347265eef1)
 ![Screenshot_20240515_111319](https://github.com/foramgondaliya/WiseWords/assets/149999919/06366676-b803-4bb0-b0f7-e5704ef2fa9c)
 ![Screenshot_20240515_111306](https://github.com/foramgondaliya/WiseWords/assets/149999919/d1c7e3d0-46fb-4e14-be94-464e395269df)
+![Screenshot_20240515_115208](https://github.com/foramgondaliya/WiseWords/assets/149999919/d884050f-5c8e-4eb5-a6cb-4ace3fb5c044)
 
